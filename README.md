@@ -9,7 +9,7 @@ RECURSOS DISPONÍVEIS
 - Uso do componente [DateControl](http://demos.krajee.com/datecontrol) do Kartik.
 
 
-INSTALLATION
+INSTALAÇÃO
 ------------
 
 - Crie um novo schema no banco de dados;
