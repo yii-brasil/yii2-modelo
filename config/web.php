@@ -84,6 +84,7 @@ $config = [
             // set your timezone for date saved to db
             'saveTimezone' => 'America/Sao_Paulo',
 
+            'autoWidget' => false,
         ],
     ],
     'params' => $params,
